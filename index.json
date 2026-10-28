@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "midi-app-controller",
+  "versions": [
+    {
+      "commit": "2f650d9cd424590308f6b59c740e39a1f4f80a39",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:03:59.308342+00:00"
+    }
+  ]
+}
